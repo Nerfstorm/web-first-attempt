@@ -1,3 +1,5 @@
 # web-first-attempt
 
-## 0 to 100 in 2 days
+#### 0 to hero in 2 days
+
+*"greatest coding story of our times" ~ Steven Spielberg*
